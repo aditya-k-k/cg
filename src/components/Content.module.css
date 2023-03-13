@@ -1,0 +1,27 @@
+.testEnvironment{
+    margin-left: 220px;
+    margin-top: 70px;
+    padding: 5px;
+}
+.button{
+    width: 220px;
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom:16px;
+    margin-top: 20px;
+}
+.button:hover,.buttn:active{
+    background-color: #4086b5;
+    color: white;
+}
+.line{
+    width: 80%;
+    height: 10px;
+    background-color: #4086b5; 
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-bottom: 22px;
+}

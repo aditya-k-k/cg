@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    justify-content: flex-start;
+    margin: 20px;
+    height: 60vh;
+}
+.minicontainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #4086b5;
+    border-radius: 10px;
+    padding: 0.5rem 2rem;
+}
+.minicontainer input{
+    height: 15px;
+     width: 15px;
+    background-color: #eee;
+    cursor: pointer;
+}
+.name{
+    cursor: pointer;
+    width: 650px;
+    font: inherit;
+    font-size: 1rem;
+}
